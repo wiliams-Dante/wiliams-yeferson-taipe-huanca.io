@@ -1,0 +1,45 @@
+h1 {
+    color: rgba(113, 73, 207, 0.9);
+    text-align: center;
+    background-color: rgba(164, 153, 194, 0.534);
+    border-radius: 30px;
+    text-align: center;
+    
+    
+    }
+h2 {
+    color: rgba(113, 73, 207, 0.9);
+    padding-left: 30px;
+    background-color: rgba(164, 153, 194, 0.534);
+    border-radius: 15px;
+    text-align: center;
+
+        }
+.post {
+    margin: 15px 30px 15px 30px;
+    padding: 15px 30px 15px 30px;
+    border-bottom: 1px solid #532ea8;  
+    
+        }
+footer {
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+    background-color:rgba(164, 153, 194, 0.534);
+        }
+img {
+    border-radius: 15px;
+    box-shadow: 0 3px 6px rgba(113, 73, 207, 0.9);
+
+    }
+body {
+    background-color: rgba(195, 196, 255, 0.336);
+
+    }
+
+a:link{
+    color:darkblue;
+} 
+a:hover{
+    color: red;
+}
