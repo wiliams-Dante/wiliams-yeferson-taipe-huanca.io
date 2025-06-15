@@ -43,3 +43,28 @@ a:link{
 a:hover{
     color: red;
 }
+
+.mi-caja {
+    display: block;
+    width: fit-content;
+    border: 1px solid #007bff;
+    background-color: #9184db44;
+    padding: 15px;
+    margin: 20px auto;
+    border-radius: 5px;
+  }
+.ident{
+    margin-left: 35px;
+}
+
+.contenedor {
+    display: flex;          /* Activa Flexbox */
+    align-items: center;   /* Centra verticalmente */
+    gap: 20px;             /* Espacio entre imagen y texto */
+}
+
+
+
+.texto {
+    margin: 0;             /* Elimina márgenes por defecto del párrafo */
+}
